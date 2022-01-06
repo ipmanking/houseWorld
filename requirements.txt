@@ -21,7 +21,7 @@ blinker==1.4
 bottle==0.12.13
 brotlipy==0.7.0
 bs4==0.0.1
-celery==4.2.0
+celery==5.2.2
 certifi==2018.4.16
 cffi==1.11.5
 chainer==4.2.0
