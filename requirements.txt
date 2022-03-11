@@ -143,7 +143,7 @@ passlib==1.7.1
 PasteDeploy==1.5.2
 pathtools==0.1.2
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==9.0.1
 pipenv==2018.7.1
 plaster==1.0
 plaster-pastedeploy==0.5
