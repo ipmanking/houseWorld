@@ -106,7 +106,7 @@ kombu==4.2.1
 ldap3==2.5
 lml==0.0.2
 Logbook==1.4.0
-lxml==4.2.2
+lxml==4.9.1
 macropy3==1.1.0b2
 Markdown==2.6.11
 MarkupSafe==1.0
